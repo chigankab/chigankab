@@ -18,6 +18,5 @@
 ---
 
 <p align="center">
-  <img src="https://64.media.tumblr.com/2a69d7c41e7b0e8d8795a6d1b6b9cb4f/tumblr_ny5p8rPFlG1qze3hdo1_500.gif" alt="Neon Pixel Sun" width="480" />
+  <img src="pixel_sun.gif" alt="Pixel Sun Rise" width="480"/>
 </p>
-
