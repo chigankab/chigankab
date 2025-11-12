@@ -18,5 +18,5 @@
 ---
 
 <p align="center">
-  <img src="pixel_sun.gif" alt="Pixel Sun Rise" width="480"/>
+  <img src="https://art.pixilart.com/1f9b037cb7caa4d.gif" alt="Pixel Sun Rise" width="480"/>
 </p>
